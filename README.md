@@ -1,11 +1,11 @@
 ## ML_predict
-
+---
 ### Introduction
 - The goal of this competition is to use various factors to predict obesity risk in individuals, which is related to cardiovascular disease.
-
+---
 ### Project Period
 - 4 days (February 26th, 2024 ~ February 29th, 2024)
-
+---
 ### Dataset Description
 - train.csv
 - test.csv
@@ -30,23 +30,23 @@
 |'CALC'	| Consumption of alcohol	|Takes 4 values: Sometimes, no, Frequently, & Always |
 |'MTRANS'|	Transportation used	| MTRANS takes 5 values Public_Transportation, Automobile, Walking, Motorbike, & Bike|
 |'NObeyesdad'	|TARGET	|This is our target, takes 7 values, and in this comp. we have to give the class name (Not the Probability, which is the case in most comp.)|
-
+---
 ### Libraries
 #### Data preprocessing      
 - **pandas==2.2.0**
 - **numpy==1.26.3**
 - **sklearn==1.2.2**
-  
+---
 #### Visualization
 - **matplotlib==3.7.4**
 - **seaborn==0.12.2**
-
+---
 #### Hyperparameter Tuning
 - **optuna==3.5.0**
-
+---
 #### Modeling
 - **lightgbm==4.2.0**
-
+---
 ### Project Link
 - [Kaggle_Multi-Class Prediction of Obesity Risk](https://www.kaggle.com/competitions/playground-series-s4e2/overview)
 - [Google Slide presentation materials](https://docs.google.com/presentation/d/14FPg5djDFekLzU2_5-K0jOxuOmyxgsthbFjQm9d0cpw/edit#slide=id.p)
