@@ -48,5 +48,5 @@
 - **lightgbm==4.2.0**
 
 ### Project Link
--[Kaggle_Multi-Class Prediction of Obesity Risk](https://www.kaggle.com/competitions/playground-series-s4e2/overview)
--[Google Slide presentation materials](https://docs.google.com/presentation/d/14FPg5djDFekLzU2_5-K0jOxuOmyxgsthbFjQm9d0cpw/edit#slide=id.p)
+- [Kaggle_Multi-Class Prediction of Obesity Risk](https://www.kaggle.com/competitions/playground-series-s4e2/overview)
+- [Google Slide presentation materials](https://docs.google.com/presentation/d/14FPg5djDFekLzU2_5-K0jOxuOmyxgsthbFjQm9d0cpw/edit#slide=id.p)
