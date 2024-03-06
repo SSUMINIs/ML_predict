@@ -36,11 +36,11 @@
 - **pandas==2.2.0**
 - **numpy==1.26.3**
 - **sklearn==1.2.2**
-- 
+  
 #### Visualization
 - **matplotlib==3.7.4**
 - **seaborn==0.12.2**
-- 
+
 #### Hyperparameter Tuning
 - **optuna==3.5.0**
 
